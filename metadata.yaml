@@ -1,0 +1,30 @@
+_repo: The-Nameless-Island--A-Story-of-some-Modern-Robinson-Crusoes_37652
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37652-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Westerman, Percy F. (Percy Francis)
+    birthdate: 1876
+    deathdate: 1959
+    gutenberg_agent_id: '32140'
+    url: http://www.gutenberg.org/2009/agents/32140
+    wikipedia: http://en.wikipedia.org/wiki/Percy_F._Westerman
+description: ''
+gutenberg_issued: '2011-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37652'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Robinsonades'
+- !lcsh 'Shipwreck survival -- Juvenile fiction'
+- !lcsh 'Castaways -- Juvenile fiction'
+- !lcsh 'Islands of the Pacific -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'The Nameless Island: A Story of Some Modern Robinson Crusoes'
+url: http://www.gutenberg.org/ebooks/37652
